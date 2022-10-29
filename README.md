@@ -10,7 +10,7 @@ ArthSwap is a One-Stop Defi On Astar Network.
 
 With simple UI and design for High APY, it enables High-Frequency Trade on Astar Network.
 
-In order to achieve our mission, we need your help. Therefore, we are looking for active members of the community to help promote and raise awareness of ArthSwap and Astar Network. Community managers will become official representatives of ArthSwap and will play an important role in creating the future of ArthSwap/Astar Network.
+In order to achieve our mission, we need your help. Therefore, we are looking for active members of the community to help promote and raise awareness of ArthSwap and Astar Network. Community Ambassador will become official representatives of ArthSwap and will play an important role in creating the future of ArthSwap/Astar Network.
 
 ## Criteria
 
@@ -38,15 +38,15 @@ You will have the opportunity to communicate with people who have experience in 
 
 
 ## Roles
-### Candidate -> Community Manager -> Regional Head
+### Candidate -> Community Ambassador -> Regional Head
 
 As for the roles, in principle, we follow Astar's ambassador program.
 Therefore, you will start as a Candidate. 
 
-We will review your commitment and progress in the first two months and decide if you are ready to take on the responsibility as a community manager.
-As a rule, the tasks that need to be performed by Candidates and Community Manager remain the same. However, when you are promoted to Community Manager, you will receive bonus tokens in addition to the basic rewards. The bonus amount and rewards are still being worked out.
+We will review your commitment and progress in the first two months and decide if you are ready to take on the responsibility as a community Ambassador.
+As a rule, the tasks that need to be performed by Candidates and Community Ambassador remain the same. However, when you are promoted to Community Ambassador, you will receive bonus tokens in addition to the basic rewards. The bonus amount and rewards are still being worked out.
 
-If you gain experience as a community manager over a certain period of time and show high commitment and performance, you will be promoted to Regional Head and will receive an additional bonus. (The amount of the bonus and the role of Regional Head are still being worked out)
+If you gain experience as a community Ambassador over a certain period of time and show high commitment and performance, you will be promoted to Regional Head and will receive an additional bonus. 
 
 ## Program Contents
 
@@ -67,7 +67,7 @@ In principle, we follow Astar's New Program.
 | ID | Description | Required Quantity | Max Points |
 | --- | --- | --- | --- |
 | CM | Community Management - Support and manage your local community by answering questions, providing necessary info, etc. This includes translating official news and articles. Those who do not have a local community or have a small local community, is required to extend their support on the main Discord community. Please install Combot on your Telegram channel so that you can provide the statistics with Combot link. Please don't just introduce our service, but also try to spread Astar. | Day to day | 50 |
-| VSM | Viral Social Media Engagement - This is part of our strategy to create viral social media presence. You are required to put on "ArthSwap Community Manager" on your Twitter account. Create short quality content or memes on Twitter or other social media platforms. Please share your tweets with your local community and get them to retweet to increase presence. At that time,please use your own words to explain how you think ArthSwap is valuable to Astar and the Astar community! You need to share your Twitter analytics (https://analytics.twitter.com/) every month. | 2 per week | 50 |
+| VSM | Viral Social Media Engagement - This is part of our strategy to create viral social media presence. You are required to put on "ArthSwap Community Ambassador" on your Twitter account. Create short quality content or memes on Twitter or other social media platforms. Please share your tweets with your local community and get them to retweet to increase presence. At that time,please use your own words to explain how you think ArthSwap is valuable to Astar and the Astar community! You need to share your Twitter analytics (https://analytics.twitter.com/) every month. | 2 per week | 50 |
 
 ## S**upplementary Tasks (Please perform at least one task per month.)**
 
